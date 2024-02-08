@@ -1,0 +1,689 @@
+[Root]
+Most Recent Package=Setup SistemaMP 2002
+
+
+[Package|Setup SistemaMP 2001|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=e:\SistemaMP
+
+[Package|Setup SistemaMP 2001|Configure DAO ISAMs]
+Applicable=Yes
+Text=No
+Excel=No
+Xbase=No
+Jet 2.x=Yes
+
+[Package|Setup SistemaMP 2001|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Setup SistemaMP 2001|Files Found]
+
+[Package|Setup SistemaMP 2001|Files Released]
+U2FXLS.DLL=
+U2FWORDW.DLL=
+U2FWKS.DLL=
+U2FTEXT.DLL=
+U2FSEPV.DLL=
+U2FRTF.DLL=
+U2FREC.DLL=
+U2FHTML.DLL=
+U2FDIF.DLL=
+U2FCR.DLL=
+U2DMAPI.DLL=
+CRXLAT32.DLL=
+
+[Package|Setup SistemaMP 2001|Missing Dependency Information]
+C:\SISTEMA\Modulos\REBOOT.OCX=
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+
+[Package|Setup SistemaMP 2001|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=
+
+[Package|Setup SistemaMP 2001|Files Added]
+c:\programa\arquivos\arquiv_mp.mdb=
+c:\programa\mov\globe.avi=
+c:\programa\fonts\v100012_.ttf=
+c:\windows\system\sistemamp.ini=
+C:\PROGRAMA\Reports\beneficios.rpt=
+C:\PROGRAMA\Reports\cidades.rpt=
+C:\PROGRAMA\Reports\codbarras.rpt=
+C:\PROGRAMA\Reports\empresas.rpt=
+C:\PROGRAMA\Reports\eventos.rpt=
+C:\PROGRAMA\Reports\localeventos.rpt=
+C:\PROGRAMA\Reports\mailing.rpt=
+
+[Package|Setup SistemaMP 2001|Files Removed]
+
+[Package|Setup SistemaMP 2001|Files In Project]
+C:\Programa\SistemaMP.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO2535.TLB=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\CRPE32.DLL=Yes
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=Yes
+C:\WINDOWS\SYSTEM\PG32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\WINDOWS\SYSTEM\P2BBND.DLL=Yes
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=Yes
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=Yes
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\SISTEMA\Modulos\REBOOT.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programa\Arquivos\Arquiv_MP.mdb=Yes
+C:\Programa\Mov\GLOBE.AVI=Yes
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\PROGRAMA\Fonts\V100012_.TTF=Yes
+C:\WINDOWS\SYSTEM\SistemaMP.INI=Yes
+C:\PROGRAMA\Reports\beneficios.rpt=Yes
+C:\PROGRAMA\Reports\cidades.rpt=Yes
+C:\PROGRAMA\Reports\codbarras.rpt=Yes
+C:\PROGRAMA\Reports\empresas.rpt=Yes
+C:\PROGRAMA\Reports\eventos.rpt=Yes
+C:\PROGRAMA\Reports\localeventos.rpt=Yes
+C:\PROGRAMA\Reports\mailing.rpt=Yes
+
+[Package|Setup SistemaMP 2001|Configure Registry Files]
+Applicable=No
+
+[Package|Setup SistemaMP 2001|Configure Remote Servers]
+Applicable=No
+
+[Package|Setup SistemaMP 2001|Install Locations]
+C:\Programa\SistemaMP.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRPE32.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PG32.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\P2BBND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\SISTEMA\Modulos\REBOOT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programa\Arquivos\Arquiv_MP.mdb=$(AppPath)
+C:\Programa\Mov\GLOBE.AVI=$(AppPath)
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\PROGRAMA\Fonts\V100012_.TTF=$(Font)
+C:\WINDOWS\SYSTEM\SistemaMP.INI=$(AppPath)
+C:\PROGRAMA\Reports\beneficios.rpt=$(AppPath)
+C:\PROGRAMA\Reports\cidades.rpt=$(AppPath)
+C:\PROGRAMA\Reports\codbarras.rpt=$(AppPath)
+C:\PROGRAMA\Reports\empresas.rpt=$(AppPath)
+C:\PROGRAMA\Reports\eventos.rpt=$(AppPath)
+C:\PROGRAMA\Reports\localeventos.rpt=$(AppPath)
+C:\PROGRAMA\Reports\mailing.rpt=$(AppPath)
+
+[Package|Setup SistemaMP 2001|Configure Shared Files]
+Applicable=Yes
+C:\Programa\SistemaMP.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programa\Arquivos\Arquiv_MP.mdb=Yes
+C:\Programa\Mov\GLOBE.AVI=Yes
+C:\WINDOWS\SYSTEM\SistemaMP.INI=Yes
+C:\PROGRAMA\Reports\beneficios.rpt=Yes
+C:\PROGRAMA\Reports\cidades.rpt=Yes
+C:\PROGRAMA\Reports\codbarras.rpt=Yes
+C:\PROGRAMA\Reports\empresas.rpt=Yes
+C:\PROGRAMA\Reports\eventos.rpt=Yes
+C:\PROGRAMA\Reports\localeventos.rpt=Yes
+C:\PROGRAMA\Reports\mailing.rpt=Yes
+
+[Package|Setup SistemaMP 2001|Distribution]
+Type=single
+Size=1.44 MB
+Title=SistemaMP 2001
+
+[Package|Setup SistemaMP 2001|Package]
+PackageFolder=e:\SistemaMP
+ProjectFolder=C:\Programa
+ServerSideCab=
+File1=e:\SistemaMP\setup.exe
+File2=e:\SistemaMP\Setup.Lst
+File3=e:\SistemaMP\SistemaMP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Setup SistemaMP 2001|IconGroups]
+Group0=SistemaMP 2001
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Setup SistemaMP 2001|SistemaMP 2001]
+Icon1=SistemaMP.exe
+Title1=SistemaMP 2001
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Estalação SistemaMP 2001|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\SetupXP
+
+[Package|Estalação SistemaMP 2001|Configure DAO ISAMs]
+Applicable=Yes
+Text=No
+Excel=No
+Xbase=No
+Jet 2.x=Yes
+
+[Package|Estalação SistemaMP 2001|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Estalação SistemaMP 2001|Files Found]
+
+[Package|Estalação SistemaMP 2001|Files Released]
+U2FXLS.DLL=
+U2FWORDW.DLL=
+U2FWKS.DLL=
+U2FTEXT.DLL=
+U2FSEPV.DLL=
+U2FRTF.DLL=
+U2FREC.DLL=
+U2FHTML.DLL=
+U2FDIF.DLL=
+U2FCR.DLL=
+U2DMAPI.DLL=
+CRXLAT32.DLL=
+mailing.rpt=
+localeventos.rpt=
+eventos.rpt=
+empresas.rpt=
+codbarras.rpt=
+cidades.rpt=
+beneficios.rpt=
+v100012_.ttf=
+globe.avi=
+
+[Package|Estalação SistemaMP 2001|Missing Dependency Information]
+C:\SISTEMA\Modulos\REBOOT.OCX=
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+E:\Desenv\SISTEMA\Modulos\REBOOT.OCX=
+C:\WINDOWS\SYSTEM\Crystl32.ocx=
+
+[Package|Estalação SistemaMP 2001|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=
+C:\WINDOWS\SYSTEM\MSCAL.OCX=
+C:\WINDOWS\SYSTEM\Comdlg32.ocx=
+C:\WINDOWS\SYSTEM\Msmask32.ocx=
+C:\WINDOWS\SYSTEM\msstdfmt.dll=
+
+[Package|Estalação SistemaMP 2001|Files Added]
+c:\programa\arquivos\arquiv_mp.mdb=
+globe.avi=
+v100012_.ttf=
+c:\windows\system\sistemamp.ini=
+beneficios.rpt=
+cidades.rpt=
+codbarras.rpt=
+empresas.rpt=
+eventos.rpt=
+localeventos.rpt=
+mailing.rpt=
+
+[Package|Estalação SistemaMP 2001|Files Removed]
+
+[Package|Estalação SistemaMP 2001|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO2535.TLB=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programa\Arquivos\Arquiv_MP.mdb=Yes
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\SistemaMP.INI=Yes
+E:\Desenv\PROGRAMA\SistemaMP.exe=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\MSCAL.OCX=Yes
+E:\Desenv\SISTEMA\Modulos\REBOOT.OCX=Yes
+
+[Package|Estalação SistemaMP 2001|Configure Registry Files]
+Applicable=No
+
+[Package|Estalação SistemaMP 2001|Configure Remote Servers]
+Applicable=No
+
+[Package|Estalação SistemaMP 2001|Install Locations]
+C:\Programa\SistemaMP.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRPE32.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PG32.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\P2BBND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\SISTEMA\Modulos\REBOOT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programa\Arquivos\Arquiv_MP.mdb=$(AppPath)
+C:\Programa\Mov\GLOBE.AVI=$(AppPath)
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\PROGRAMA\Fonts\V100012_.TTF=$(Font)
+C:\WINDOWS\SYSTEM\SistemaMP.INI=$(AppPath)
+C:\PROGRAMA\Reports\beneficios.rpt=$(AppPath)
+C:\PROGRAMA\Reports\cidades.rpt=$(AppPath)
+C:\PROGRAMA\Reports\codbarras.rpt=$(AppPath)
+C:\PROGRAMA\Reports\empresas.rpt=$(AppPath)
+C:\PROGRAMA\Reports\eventos.rpt=$(AppPath)
+C:\PROGRAMA\Reports\localeventos.rpt=$(AppPath)
+C:\PROGRAMA\Reports\mailing.rpt=$(AppPath)
+E:\Desenv\PROGRAMA\SistemaMP.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSCAL.OCX=$(WinSysPath)
+E:\Desenv\SISTEMA\Modulos\REBOOT.OCX=$(WinSysPath)
+
+[Package|Estalação SistemaMP 2001|Configure Shared Files]
+Applicable=Yes
+C:\Programa\SistemaMP.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programa\Arquivos\Arquiv_MP.mdb=Yes
+C:\Programa\Mov\GLOBE.AVI=Yes
+C:\WINDOWS\SYSTEM\SistemaMP.INI=Yes
+C:\PROGRAMA\Reports\beneficios.rpt=Yes
+C:\PROGRAMA\Reports\cidades.rpt=Yes
+C:\PROGRAMA\Reports\codbarras.rpt=Yes
+C:\PROGRAMA\Reports\empresas.rpt=Yes
+C:\PROGRAMA\Reports\eventos.rpt=Yes
+C:\PROGRAMA\Reports\localeventos.rpt=Yes
+C:\PROGRAMA\Reports\mailing.rpt=Yes
+E:\Desenv\PROGRAMA\SistemaMP.exe=Yes
+
+[Package|Estalação SistemaMP 2001|Distribution]
+Type=single
+Size=1.44 MB
+Title=SistemaMP 2001
+
+[Package|Estalação SistemaMP 2001|IconGroups]
+Group0=SistemaMP 2001
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Estalação SistemaMP 2001|SistemaMP 2001]
+Icon1=SistemaMP.exe
+Title1=SistemaMP 2001
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Estalação SistemaMP 2001|Package]
+PackageFolder=d:\SetupXP
+ProjectFolder=E:\Desenv\PROGRAMA
+ServerSideCab=
+File1=d:\SetupXP\setup.exe
+File2=d:\SetupXP\Setup.Lst
+File3=d:\SetupXP\SistemaMP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Setup SistemaMP 2002|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\setup
+
+[Package|Setup SistemaMP 2002|Configure DAO ISAMs]
+Applicable=Yes
+Text=No
+Excel=No
+Xbase=No
+Jet 2.x=Yes
+
+[Package|Setup SistemaMP 2002|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Setup SistemaMP 2002|Files Found]
+GLOBE.AVI=C:\Programa\Graficos1\GLOBE.AVI
+V100012_.TTF=D:\Desenv\PROGRAMA\Fonts\V100012_.TTF
+
+[Package|Setup SistemaMP 2002|Files Released]
+U2FXLS.DLL=
+U2FWORDW.DLL=
+U2FWKS.DLL=
+U2FTEXT.DLL=
+U2FSEPV.DLL=
+U2FRTF.DLL=
+U2FREC.DLL=
+U2FHTML.DLL=
+U2FDIF.DLL=
+U2FCR.DLL=
+U2DMAPI.DLL=
+CRXLAT32.DLL=
+
+[Package|Setup SistemaMP 2002|Missing Dependency Information]
+C:\SISTEMA\Modulos\REBOOT.OCX=
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=
+C:\WINDOWS\SYSTEM\MSDXM.OCX=
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\REBOOT.OCX=
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\MSCAL.OCX=
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\TABCTL32.OCX=
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\COMDLG32.OCX=
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\MSMASK32.OCX=
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\CRYSTL32.OCX=
+
+[Package|Setup SistemaMP 2002|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=
+
+[Package|Setup SistemaMP 2002|Files Added]
+c:\programa\arquivos\arquiv_mp.mdb=
+globe.avi=
+v100012_.ttf=
+c:\windows\system\sistemamp.ini=
+c:\programa\reports\beneficios.rpt=
+c:\programa\reports\cidades.rpt=
+c:\programa\reports\codbarras.rpt=
+c:\programa\reports\empresas.rpt=
+c:\programa\reports\eventos.rpt=
+c:\programa\reports\localeventos.rpt=
+c:\programa\reports\mailing.rpt=
+d:\desenv\programa\reports\label1.rpt=
+d:\desenv\programa\reports\etiquetas.rpt=
+
+[Package|Setup SistemaMP 2002|Files Removed]
+
+[Package|Setup SistemaMP 2002|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDXM.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO2535.TLB=Yes
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\expsrv.dll=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Programa\Arquivos\Arquiv_MP.mdb=Yes
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\SistemaMP.INI=Yes
+C:\PROGRAMA\Reports\beneficios.rpt=Yes
+C:\PROGRAMA\Reports\cidades.rpt=Yes
+C:\PROGRAMA\Reports\codbarras.rpt=Yes
+C:\PROGRAMA\Reports\empresas.rpt=Yes
+C:\PROGRAMA\Reports\eventos.rpt=Yes
+C:\PROGRAMA\Reports\localeventos.rpt=Yes
+C:\PROGRAMA\Reports\mailing.rpt=Yes
+D:\Desenv\PROGRAMA\SistemaMP.exe=Yes
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\CRYSTL32.OCX=Yes
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\MSMASK32.OCX=Yes
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\COMDLG32.OCX=Yes
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\TABCTL32.OCX=Yes
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\MSCAL.OCX=Yes
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\REBOOT.OCX=Yes
+C:\Programa\Graficos1\GLOBE.AVI=Yes
+D:\Desenv\PROGRAMA\Fonts\V100012_.TTF=Yes
+D:\Desenv\PROGRAMA\Reports\label1.rpt=Yes
+D:\Desenv\PROGRAMA\Reports\etiquetas.rpt=Yes
+
+[Package|Setup SistemaMP 2002|Configure Registry Files]
+Applicable=No
+
+[Package|Setup SistemaMP 2002|Configure Remote Servers]
+Applicable=No
+
+[Package|Setup SistemaMP 2002|Install Locations]
+C:\Programa\SistemaMP.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSDXM.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\SYSTEM\ADO\msadox.dll=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRYSTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CRPE32.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\IMPLODE.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PG32.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\P2BBND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2BDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2CTDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2IRDAO.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\P2SODBC.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\U2DDISK.DLL=$(WinPath)\Crystal
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\SISTEMA\Modulos\REBOOT.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Programa\Arquivos\Arquiv_MP.mdb=$(AppPath)
+C:\Programa\Mov\GLOBE.AVI=$(AppPath)
+C:\WINDOWS\SYSTEM\DBGRID32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\PROGRAMA\Fonts\V100012_.TTF=$(Font)
+C:\WINDOWS\SYSTEM\SistemaMP.INI=$(AppPath)
+C:\PROGRAMA\Reports\beneficios.rpt=$(AppPath)
+C:\PROGRAMA\Reports\cidades.rpt=$(AppPath)
+C:\PROGRAMA\Reports\codbarras.rpt=$(AppPath)
+C:\PROGRAMA\Reports\empresas.rpt=$(AppPath)
+C:\PROGRAMA\Reports\eventos.rpt=$(AppPath)
+C:\PROGRAMA\Reports\localeventos.rpt=$(AppPath)
+C:\PROGRAMA\Reports\mailing.rpt=$(AppPath)
+D:\Desenv\PROGRAMA\SistemaMP.exe=$(AppPath)
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\CRYSTL32.OCX=$(WinSysPath)
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\MSMASK32.OCX=$(WinSysPath)
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\COMDLG32.OCX=$(WinSysPath)
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\TABCTL32.OCX=$(WinSysPath)
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\MSCAL.OCX=$(WinSysPath)
+\\Ntserver\dados\EDSON\CD-2\SISTEMA\Modulos\REBOOT.OCX=$(WinSysPath)
+C:\Programa\Graficos1\GLOBE.AVI=$(AppPath)
+D:\Desenv\PROGRAMA\Fonts\V100012_.TTF=$(Font)
+D:\Desenv\PROGRAMA\Reports\label1.rpt=$(AppPath)
+D:\Desenv\PROGRAMA\Reports\etiquetas.rpt=$(AppPath)
+
+[Package|Setup SistemaMP 2002|Configure Shared Files]
+Applicable=Yes
+C:\Programa\SistemaMP.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Programa\Arquivos\Arquiv_MP.mdb=Yes
+C:\Programa\Mov\GLOBE.AVI=Yes
+C:\WINDOWS\SYSTEM\SistemaMP.INI=Yes
+C:\PROGRAMA\Reports\beneficios.rpt=Yes
+C:\PROGRAMA\Reports\cidades.rpt=Yes
+C:\PROGRAMA\Reports\codbarras.rpt=Yes
+C:\PROGRAMA\Reports\empresas.rpt=Yes
+C:\PROGRAMA\Reports\eventos.rpt=Yes
+C:\PROGRAMA\Reports\localeventos.rpt=Yes
+C:\PROGRAMA\Reports\mailing.rpt=Yes
+D:\Desenv\PROGRAMA\SistemaMP.exe=Yes
+C:\Programa\Graficos1\GLOBE.AVI=Yes
+D:\Desenv\PROGRAMA\Reports\label1.rpt=Yes
+D:\Desenv\PROGRAMA\Reports\etiquetas.rpt=Yes
+
+[Package|Setup SistemaMP 2002|Distribution]
+Type=single
+Size=1.44 MB
+Title=SistemaMP 2002
+
+[Package|Setup SistemaMP 2002|IconGroups]
+Group0=SistemaMP 2001
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Setup SistemaMP 2002|SistemaMP 2001]
+Icon1=SistemaMP.exe
+Title1=SistemaMP 2001
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Setup SistemaMP 2002|Package]
+PackageFolder=d:\setup
+ProjectFolder=D:\Desenv\PROGRAMA
+ServerSideCab=
+File1=d:\setup\setup.exe
+File2=d:\setup\Setup.Lst
+File3=d:\setup\SistemaMP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

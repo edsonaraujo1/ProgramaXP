@@ -1,0 +1,5 @@
+Name------Address-------------City----------------StZip--
+Rod       12345 Bug Place     Programmersville    AZ12345
+Anne      1247 Drover Ln      Somewhere           CA11111
+Bill      58967 East Lane N   Towne               HI22222
+Cindy     985 1st, Apt A      Burgers             ND33333

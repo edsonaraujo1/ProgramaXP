@@ -1,0 +1,8 @@
+6
+"Visual Basic Algorithms","0-471-13418-X","www.vb-helper.com/vba.htm"
+"Visual Basic Graphics Programming","0-471-15533-0","www.vb-helper.com/vbgp.htm"
+"Advanced Visual Basic Techniques","0-471-18881-6","www.vb-helper.com/avbt.htm"
+"Custom Controls Library","0-471-24267-5","www.vb-helper.com/ccl.htm"
+"Ready-to-Run Visual Basic Algorithms","0-471-24268-3","www.vb-helper.com/vba.htm"
+"Ready-to-Run Delphi 3.0 Algorithms","0-471-25400-2","www.vb-helper.com/da.htm"
+"Bugproofing Visual Basic","not yet published","-"
